@@ -157,3 +157,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Pranshu's solutions](https://github.com/pranshugaba/rock_paper_scissors)
 - [Ol4er's solutions](https://github.com/ol4er/RPS)
 - [Allan Burns' solution](https://github.com/allanlburns/rock-paper-scissors/blob/master/rock_paper_scissors.html)
+- [Jurek Tomasello's solution](https://github.com/Ashelf/rock-paper-scissors)
